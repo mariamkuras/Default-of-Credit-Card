@@ -6,7 +6,7 @@
 * **Model date**: June, 14
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code**: [Default of Credit Card.ipynb (https://colab.research.google.com/drive/1V9uMhYVF59HG2kkALk6CiVDZaeBb6g1x#scrollTo=air3B951llKq)
+* **Model implementation code**: [Default of Credit Card.ipynb](https://colab.research.google.com/drive/1V9uMhYVF59HG2kkALk6CiVDZaeBb6g1x#scrollTo=air3B951llKq)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
