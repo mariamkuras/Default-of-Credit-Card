@@ -30,14 +30,14 @@
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **default.payment.next.month**| target | int | Default payment (1=yes, 0=no) |
 
-* **Source of training data**: email `jphall@gwu.edu` 
+* **Source of training data**: UCI
 * **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
 * **Number of rows in training and validation data**:
   * Training rows: 15,000
   * Validation rows: 7,500
 
 ### Test Data
-* **Source of test data**: email `jphall@gwu.edu`
+* **Source of test data**: UCI
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
 
