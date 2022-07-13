@@ -64,3 +64,7 @@
    * Female-to-Male AIR: 1.04
 
 ![image](https://user-images.githubusercontent.com/89336170/178849527-61d2a6b6-e66a-45ab-8fae-dd24efb0645f.png)
+
+### Ethical Considerations
+
+
